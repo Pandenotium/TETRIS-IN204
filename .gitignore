@@ -4,4 +4,6 @@
 
 /.vs
 /TETRIS/.vs
-/TETRIS/out/build/x64-debug
+/TETRIS/x64
+/TETRIS/*.sln
+/TETRIS/*.vcxproj*

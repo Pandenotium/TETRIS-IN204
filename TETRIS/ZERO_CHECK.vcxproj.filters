@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\学习\1研一上\IN204\TETRIS-IN204\TETRIS\CMakeFiles\7bff7b9143b91797019557dba50d2f92\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BB31D734-412C-3FA0-B4B0-FCC5A438237C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
